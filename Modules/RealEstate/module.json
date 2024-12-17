@@ -1,0 +1,13 @@
+{
+    "name": "RealEstate",
+    "alias": "realestate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RealEstate\\Providers\\RealEstateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

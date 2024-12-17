@@ -1,0 +1,293 @@
+.indicator-progress {
+    display: block !important;
+}
+
+// vue 3 select 2 component
+.select2 {
+    width: 100% !important;
+}
+
+.select2-selection--single {
+    height: 38px !important;
+    padding-top: 8px !important;
+}
+
+.select2-selection__arrow {
+    top: 8px !important;
+}
+.select2-container--default .select2-selection--single {
+    border: none !important;
+    background-color: #eef3f7 !important;
+    min-height: calc(1.2em + 1.65rem + 2px);
+    padding: 10px;
+    font-size: 1.15rem;
+    border-radius: 0.475rem;
+    font-weight: 500;
+}
+.wrapper{
+    height: 100vh !important;
+}
+.post {
+    height: 100% !important;
+}
+
+//Profile avatar remove button css
+.image-input.image-input-changed [data-kt-image-input-action=remove]
+{
+    display: block !important;
+}
+.image-input.image-input-empty [data-kt-image-input-action=remove],
+.image-input.image-input-empty [data-kt-image-input-action=cancel]
+{
+    display: block !important;
+}
+
+//vue3-datepicker css
+.vue__time-picker input.vue__time-picker-input {
+    border: 1px solid #f5f8fa !important;
+    width: 12em !important;
+    height: 3.2em !important;
+    padding: 0.3em 0.5em !important;
+    font-size: 1em !important;
+    background: #f5f8fa !important;
+    border-radius: 5px !important;
+}
+option.separator {
+    margin-top: 2px;
+    font-size: 1pt;
+    background-color: #000000;
+}
+
+.business .select2 {
+    width: 230px !important;
+}
+.select2-container{
+    text-transform: capitalize !important;
+}
+.business .select2-container--default .select2-selection--single {
+    border: none !important;
+    background-color: #eef3f7 !important;
+    // min-height: 50px !important;
+    padding: 10px;
+    font-size: 1.15rem;
+    border-radius: 0.475rem;
+    font-weight: 500;
+}
+.map-height {
+    height: 100vh;
+}
+.map-height-normal {
+    height: 50vh;
+}
+.clear-btn {
+    top: 18px;
+    right: 8%;
+    width: 4%;
+}
+
+// our custom background color
+.metronik-table-head-bg-color{
+    background-color: #eef3f7 !important;
+}
+// custom icon rotate class as bs5 doesnot have any rotate class
+
+.icon-rotate{
+    transform: rotate(90deg);
+    transition: transform 0.3s ease;
+}
+
+.icon-rotate-back{
+    transform: rotate(0deg);
+    transition: transform 0.3s ease;
+}
+.icon-center {
+    padding-top: 3px !important;
+}
+#dropzone_div{
+    width: min-content;
+}
+.ml-lg-10{
+    margin-left: 2.5rem !important
+}
+
+.w-lg-1100px {
+    width: 1100px !important;
+}
+
+.w-lg-340px {
+    width: 340px !important;
+}
+
+.w-lg-225px {
+    width: 225px !important;
+}
+
+.w-lg-820px {
+    width: 820px !important;
+}
+// custom css to center background images in the whole project
+.image-input .image-input-wrapper {
+    width: 120px;
+    height: 120px;
+    border-radius: 0.475rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-image-position-contain {
+    background-size: contain !important;
+}
+.dropzone {
+    background-color: #eef3f7 !important;
+}
+.dropzone .dz-message {
+    display: block !important;
+    text-align: center !important;
+}
+.dropzone .dz-message .dz-button {
+    color:#009ef7 !important
+}
+.dropzone .dz-preview .dz-image img {
+    display: block;
+    height: -webkit-fill-available;
+    width: inherit;
+}
+
+.swal2-toast {
+    display: flex !important;
+    width: 85% !important;
+
+}
+.swal2-popup.swal2-toast.swal2-show {
+    background-color: #50cd89 !important;
+}
+.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring {
+    display: none !important;
+}
+.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left] {
+    display: none !important;
+}
+.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right] {
+    display: none !important;
+}
+.swal2-popup.swal2-toast .swal2-success .swal2-success-fix {
+    display: none !important;
+}
+.alert-dismissible .btn-close {
+    top: 5px !important;
+}
+
+.swal2-container.swal2-bottom-end>.swal2-popup,
+.swal2-container.swal2-bottom-right>.swal2-popup {
+    bottom: 50px !important;
+}
+.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-tip {
+    background-color: white !important;
+}
+.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long {
+    background-color: white !important;
+}
+.swal2-popup.swal2-toast .swal2-success {
+    border-color: white !important;
+}
+.swal2-popup.swal2-toast .swal2-html-container {
+    color: white !important;
+}
+.checkbox-input {
+    background-color: darkgrey !important;
+}
+.star-rating__label {
+    padding: 0px !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    padding: 0px 5px 0px 25px !important;
+}
+
+//Price range slider css
+.multi-range-slider {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 30px 0px;
+}
+.multi-range-slider .bar-inner-left{
+    background: #009EF7;
+}
+
+.multi-range-slider .bar-inner-right{
+    background: #009EF7;
+}
+
+.multi-range-slider .bar-right{
+    box-shadow: inset 0px 0px 5px #d9d9d9 !important;
+}
+
+.multi-range-slider .bar-left{
+    box-shadow: inset 0px 0px 5px #d9d9d9 !important;
+}
+
+.multi-range-slider .bar-inner{
+    border: none !important;
+}
+
+.multi-range-slider .thumb::before{
+    border: none !important;
+}
+
+.multi-range-slider .thumb::before {
+    box-shadow: 0px 0px 3px white, inset 0px 0px 5px #d1d1d1 !important;
+}
+
+
+.select2-selection__clear {
+    margin-right: unset !important;
+}
+
+.form-check.form-check-solid .form-check-input {
+    border: 0;
+    background-color: #e2e2e2;
+}
+
+.mt-15-p {
+    margin-top: 15% !important;
+}
+
+.news-btn {
+    margin-top: 10% !important;
+}
+
+.remove-bottom-margin{
+    margin-bottom: 0rem !important;
+}
+
+.select2-results__option{
+    font-weight: normal !important;
+    font-size: 14px;
+}
+
+.product-variant-generate-scroll{
+    height: 50vh;
+    overflow-y: auto;
+}
+
+.multiselect__tag{
+    background: #009ef7;
+}
+
+.multiselect__tags {
+    background-color: #eef3f7 !important;
+    font-weight: 500 !important;
+}
+
+.multiselect__input {
+    min-height: 30px !important;
+    border-radius: 4px !important;
+}
+
+.multiselect__tag-icon::after{
+    color: white !important;
+    font-size: 17px !important;
+    font-weight: 100 !important;
+}
+
+

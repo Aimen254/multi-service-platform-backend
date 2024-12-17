@@ -1,0 +1,13 @@
+{
+    "name": "Obituaries",
+    "alias": "obituaries",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Obituaries\\Providers\\ObituariesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

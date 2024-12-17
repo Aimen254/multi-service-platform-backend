@@ -1,0 +1,18 @@
+{
+    "Retail": true,
+    "Automotive": true,
+    "Boats": true,
+    "News": true,
+    "Obituaries": true,
+    "Recipes": true,
+    "Blogs": true,
+    "Posts": true,
+    "Classifieds": true,
+    "Government": true,
+    "Taskers": true,
+    "Employment": true,
+    "Services": true,
+    "Notices": true,
+    "RealEstate": true,
+    "Events": true
+}

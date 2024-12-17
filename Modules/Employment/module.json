@@ -1,0 +1,13 @@
+{
+    "name": "Employment",
+    "alias": "employment",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Employment\\Providers\\EmploymentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

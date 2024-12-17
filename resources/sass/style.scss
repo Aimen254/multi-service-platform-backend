@@ -1,0 +1,28 @@
+//
+// Theme style
+//
+
+// Mode
+$mode: default;
+
+// Initialize
+@import "init";
+
+// Components
+@import "components/components";
+
+// Layout
+@import "layout/layout";
+@import "layout/docs/layout";
+
+// icons
+@import "icons/plugins.bundle";
+
+//custom
+@import 'custom';
+
+// multiselect
+
+@import "@suadelabs/vue3-multiselect/dist/vue3-multiselect.css";
+
+

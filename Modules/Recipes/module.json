@@ -1,0 +1,13 @@
+{
+    "name": "Recipes",
+    "alias": "recipes",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Recipes\\Providers\\RecipesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

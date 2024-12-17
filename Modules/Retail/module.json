@@ -1,0 +1,13 @@
+{
+    "name": "Retail",
+    "alias": "retail",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Retail\\Providers\\RetailServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Taskers",
+    "alias": "taskers",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Taskers\\Providers\\TaskersServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

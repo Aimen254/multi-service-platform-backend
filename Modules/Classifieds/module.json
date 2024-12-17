@@ -1,0 +1,13 @@
+{
+    "name": "Classifieds",
+    "alias": "classifieds",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Classifieds\\Providers\\ClassifiedsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
